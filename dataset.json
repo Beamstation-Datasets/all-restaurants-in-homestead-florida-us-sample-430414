@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Homestead, Florida. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Homestead, Florida, US",
-  "export_job_id": "05c54ef0-4569-4518-b8fa-3e09674ca970",
+  "export_job_id": "1576fa41-fd17-43f5-93c2-460ee652e890",
   "github_org": "Beamstation-Datasets",
   "id_short": 430414,
   "location_name": "Homestead",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/430414/beamstation_430414_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_pct": 9.95,
   "sample_records": 21,
-  "sample_sha256": "871ec86b0654dabb140689820dea61b6fb866679748124deb483a3c9ff5e8456",
-  "sample_size_bytes": 86682,
+  "sample_sha256": "9554bb2c5018369888b8a3486e5129c5f2a7f65febc7c28ba3e614fe1baa3bfb",
+  "sample_size_bytes": 75193,
   "total_records": 211,
-  "updated_at": "2026-04-09T09:11:20.063606+00:00"
+  "updated_at": "2026-04-16T09:11:21.170158+00:00"
 }
