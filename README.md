@@ -1,6 +1,6 @@
 # All Restaurants in Homestead, Florida, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `430414` |
 | Location | Homestead |
 | Category | Restaurants |
-| Full dataset size | 211 records |
-| Free sample size | 21 records (9.95%) |
-| Last export | 2026-04-16T09:11:21.170158+00:00 |
+| Full dataset size | 91 records |
+| Free sample size | 9 records (9.89%) |
+| Last export | 2026-04-23T09:12:38.647863+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-homestead-florida-us-sample-430414/releases/download/sample-latest/beamstation_430414_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
