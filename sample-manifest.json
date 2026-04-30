@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f37df2a8-b4ad-482a-ba9e-7186c400aa60",
+  "export_job_id": "dc14a676-b44a-4eb3-b104-b6f66adbbd1c",
   "id_short": 430414,
-  "published_at": "2026-04-23T19:38:42Z",
+  "published_at": "2026-04-30T19:11:53Z",
   "repo_name": "all-restaurants-in-homestead-florida-us-sample-430414",
   "sample_asset_name": "beamstation_430414_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/430414/beamstation_430414_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "d20b0d1bd01dbb2fa1ee68be780602e51d13bdc37e7cfa2c266a804ee1c0097c",
-  "sample_size_bytes": 41601,
-  "total_records": 91
+  "sample_records": 24,
+  "sample_sha256": "dcc88db2956d69f79a07e49d95a6b42e95094780a80fbd51d368660815c82222",
+  "sample_size_bytes": 99378,
+  "total_records": 244
 }
